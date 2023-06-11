@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 25 10:22:01 CET 2023","Wed Jan 25 10:22:04 CET 2023","2987","","MoreValidations.spec.js","","","","@Web visual",""
+"passed","Wed Jan 25 10:22:01 CET 2023","Wed Jan 25 10:22:06 CET 2023","5293","","WebAPIPart1.spec.js","","","","@Web Place the order",""
+"passed","Wed Jan 25 10:22:01 CET 2023","Wed Jan 25 10:22:11 CET 2023","9451","","ClientAppPO.spec.js","","","","@Web Client App Login for zara coat 3",""
+"passed","Wed Jan 25 10:22:11 CET 2023","Wed Jan 25 10:22:19 CET 2023","8661","","ClientAppPO.spec.js","","","","@Web Client App Login for adidas original",""
+"passed","Wed Jan 25 10:22:01 CET 2023","Wed Jan 25 10:22:10 CET 2023","9352","","UIBasicstest.spec.js","","","","@Web Browser Context Playwright Test",""
